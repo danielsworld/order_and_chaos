@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Order and Chaos</string>
+    <string name="order_turn">Order\'s move</string>
+    <string name="chaos_turn">Chaos\' move</string>
+    <string name="select_piece">Select piece to play:</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="order_wins">Order wins!</string>
+    <string name="chaos_wins">Chaos wins!</string>
+    <string name="signature">Created in roughly 8 hours by Daniel Davis.</string>
+    <string name="about_app">About the app</string>
+    <string name="title">order and chaos</string>
+    <string name="replay">Play again</string>
+    <string name="menu">Main menu</string>
+</resources>
